@@ -3,6 +3,8 @@ A simple Spring Boot webapp using:
 * Pulling in Bootstrap from CDN.
 * Github OAuth
 
+This is practice for setting up OAuth.  No database or form functionality yet.
+
 
 
 | Type this | to get this result |
